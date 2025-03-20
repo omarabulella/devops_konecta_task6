@@ -1,0 +1,2 @@
+# devops_konecta_task6
+devops_konecta_task6
